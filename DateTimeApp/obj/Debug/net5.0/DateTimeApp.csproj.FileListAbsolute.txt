@@ -1,0 +1,16 @@
+C:\GitHub\DateTimeApp\DateTimeApp\bin\Debug\net5.0\DateTimeApp.exe
+C:\GitHub\DateTimeApp\DateTimeApp\bin\Debug\net5.0\DateTimeApp.deps.json
+C:\GitHub\DateTimeApp\DateTimeApp\bin\Debug\net5.0\DateTimeApp.runtimeconfig.json
+C:\GitHub\DateTimeApp\DateTimeApp\bin\Debug\net5.0\DateTimeApp.runtimeconfig.dev.json
+C:\GitHub\DateTimeApp\DateTimeApp\bin\Debug\net5.0\DateTimeApp.dll
+C:\GitHub\DateTimeApp\DateTimeApp\bin\Debug\net5.0\ref\DateTimeApp.dll
+C:\GitHub\DateTimeApp\DateTimeApp\bin\Debug\net5.0\DateTimeApp.pdb
+C:\GitHub\DateTimeApp\DateTimeApp\obj\Debug\net5.0\DateTimeApp.csproj.AssemblyReference.cache
+C:\GitHub\DateTimeApp\DateTimeApp\obj\Debug\net5.0\DateTimeApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\DateTimeApp\DateTimeApp\obj\Debug\net5.0\DateTimeApp.AssemblyInfoInputs.cache
+C:\GitHub\DateTimeApp\DateTimeApp\obj\Debug\net5.0\DateTimeApp.AssemblyInfo.cs
+C:\GitHub\DateTimeApp\DateTimeApp\obj\Debug\net5.0\DateTimeApp.csproj.CoreCompileInputs.cache
+C:\GitHub\DateTimeApp\DateTimeApp\obj\Debug\net5.0\DateTimeApp.dll
+C:\GitHub\DateTimeApp\DateTimeApp\obj\Debug\net5.0\ref\DateTimeApp.dll
+C:\GitHub\DateTimeApp\DateTimeApp\obj\Debug\net5.0\DateTimeApp.pdb
+C:\GitHub\DateTimeApp\DateTimeApp\obj\Debug\net5.0\DateTimeApp.genruntimeconfig.cache
